@@ -74,6 +74,10 @@ O banco é um **PostgreSQL** com acesso somente leitura, composto por 6 tabelas:
 
 **Ferramenta recomendada para conexão:** DBeaver, TablePlus ou DataGrip.
 
+**String de conexão:**
+postgresql://candidato.crebcpokyhcfjqkdwytt:senha_candidato_scalare@aws-0-us-west-2.pooler.supabase.com:6543/postgres
+
+No DBeaver, crie uma nova conexão PostgreSQL e preencha os campos com os dados acima, ou cole diretamente a string de conexão no campo JDBC URL.
 ---
 
 ## 📋 Desafios Propostos
