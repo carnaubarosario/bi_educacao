@@ -105,6 +105,8 @@ A base `dados_alunos` foi fornecida sem nenhum tratamento prévio.
 
 ---
 
+Observação: se você estiver com dificuldades de conectar o banco de dados com o Powe BI, no repositório do projeto tem uma pasta com as bases necessárias.
+
 ## 🔍 Como Foi Desenvolvido
 
 ### Módulo 1 — Excel
