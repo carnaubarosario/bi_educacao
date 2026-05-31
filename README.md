@@ -2,8 +2,8 @@
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?logo=python)
-![Dashboard Looker Studio](Modulo3/Imagens/Análise%20de%20Alunos%20e%20Escolas%20-%20Looker%20Studio.png)
-![Dashboard Power BI](Modulo3/Imagens/Análise%20de%20Alunos%20e%20Escolas%20-%20Power%20BI.png)
+![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker-Studio-4285F4?logo=googleanalytics&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Avançado-217346?logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
