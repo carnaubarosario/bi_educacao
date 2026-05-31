@@ -99,8 +99,8 @@ A base `dados_alunos` foi fornecida sem nenhum tratamento prévio.
 
 6. Projetar um resumo executivo com no máximo 3 visualizações, justificando a prioridade estratégica de cada painel.
 
-   ![Dashboard Looker Studio](Modulo3/Imagens/Análise%20de%20Alunos%20e%20Escolas%20-%20Looker%20Studio.png)
-   ![Dashboard Power BI](Modulo3/Imagens/Análise%20de%20Alunos%20e%20Escolas%20-%20Power%20BI.png)
+   ![Dashboard Looker Studio](Modulo3/Imagens/Dashboard_Looker_Studio.png)
+   ![Dashboard Power BI](Modulo3/Imagens/Dashboard_Power_BI.png)
 
 ### Módulo 4 — Análise Escrita
 
