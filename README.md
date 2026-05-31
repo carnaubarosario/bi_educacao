@@ -187,14 +187,14 @@ Proposta de view que desnormaliza todas as tabelas em uma única camada pronta p
 
 > A view não foi executada devido às permissões restritas do ambiente (somente leitura), mas a estrutura foi proposta para demonstrar uma camada analítica de produção.
 
----
+
 
 ## 📈 Dashboard 
 
 ## Dashboard Looker Studio
 ![Dashboard Looker Studio](https://raw.githubusercontent.com/carnaubarosario/bi_educacao/main/Modulo3/Imagens%20Dashboard/An%C3%A1lise%20de%20Alunos%20e%20Escolas%20-%20Looker%20Studio.png)
 
-#Dashboard Power BI
+## Dashboard Power BI
 ![Dashboard Power BI](https://raw.githubusercontent.com/carnaubarosario/bi_educacao/main/Modulo3/Imagens%20Dashboard/An%C3%A1lise%20de%20Alunos%20e%20Escolas%20-%20Power%20BI.png)
 
 🔗 [Acessar dashboard no Looker Studio](https://datastudio.google.com/reporting/d6142069-5699-4d2e-917e-fb42e3cdb2f9)
