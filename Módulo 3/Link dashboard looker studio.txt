@@ -1,0 +1,2 @@
+Link para acesso ao dashboard no looker studio:
+https://datastudio.google.com/reporting/d6142069-5699-4d2e-917e-fb42e3cdb2f9

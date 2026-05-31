@@ -1,0 +1,15 @@
+Campos calculados no looker studio:
+
+alunos_inativos:
+COUNT_DISTINCT(
+  CASE
+    WHEN ativo = false THEN aluno_id
+    ELSE NULL
+  END
+)
+
+media geral:
+AVG(media_aluno)
+
+taxa inadimplência:
+(SUM(pagamentos_pendentes) / SUM(total_pagamentos)) * 100
